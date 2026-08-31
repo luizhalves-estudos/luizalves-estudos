@@ -1,4 +1,4 @@
-# Olá, eu sou Luiz Henrique Alves 👋
+# Olá, eu sou Luiz Alves 👋
 
 Seja bem-vindo ao meu GitHub!
 
